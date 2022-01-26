@@ -204,10 +204,9 @@ public class Main {
                 }
             }
         }
-        if(foundCount > 0){
-
-        } else{
-            System.out.println("No word exist");
+        if(foundCount <= 0)
+        {
+            System.out.println("No word exist");System.out.println("No word exist");System.out.println("No word exist");System.out.println("No word exist");System.out.println("No word exist");System.out.println("No word exist");System.out.println("No word exist");
         }
 
     }
